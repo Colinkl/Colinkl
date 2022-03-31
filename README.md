@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Colinkl
-- 👀 I’m interested in .Net Core
-- 🌱 I’m currently learning Blazor
+- 👀 I’m interested in .Net 6
+- 🌱 I’m currently learning Asp.Net
 - 📫 How to reach me t.me/Colinkl
 
 <!---
