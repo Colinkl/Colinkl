@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Colinkl
+- 😺 Mobile dev
 - 👀 I’m interested in .Net 6
-- 🌱 I’m currently learning Asp.Net
 - 📫 How to reach me t.me/Colinkl
 
 <!---
